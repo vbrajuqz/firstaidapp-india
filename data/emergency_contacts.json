@@ -1,0 +1,9 @@
+{
+  "Maharashtra": {
+    "Mumbai": { "police": "100", "ambulance": "108", "hospital": "JJ Hospital: 022-23735555" },
+    "Pune": { "police": "100", "ambulance": "108", "hospital": "Sassoon Hospital: 020-26128000" }
+  },
+  "Delhi": {
+    "New Delhi": { "police": "100", "ambulance": "102", "hospital": "AIIMS: 011-26588500" }
+  }
+}
